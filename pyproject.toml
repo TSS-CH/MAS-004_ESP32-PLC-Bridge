@@ -1,0 +1,15 @@
+﻿[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "MAS-004_ESP32-PLC-Bridge"
+version = "0.1.0"
+description = "ESP32 PLC line protocol bridge client for MAS-004"
+requires-python = ">=3.9"
+dependencies = [
+  "ping3>=4.0.0",
+]
+
+[tool.setuptools]
+packages = ["mas004_esp32_plc_bridge"]
