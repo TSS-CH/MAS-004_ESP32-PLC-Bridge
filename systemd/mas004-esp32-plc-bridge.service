@@ -1,4 +1,4 @@
-﻿[Unit]
+[Unit]
 Description=MAS-004 ESP32 PLC Bridge
 After=network-online.target
 Wants=network-online.target

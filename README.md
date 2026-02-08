@@ -1,4 +1,4 @@
-﻿# MAS-004_ESP32-PLC-Bridge
+# MAS-004_ESP32-PLC-Bridge
 
 Basis-Client und Daemon fuer die Kommunikation zur ESP32-PLC ueber TCP.
 
